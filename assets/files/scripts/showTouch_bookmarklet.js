@@ -20,6 +20,10 @@
 // OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 // WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
+
+// usage:
+// javascript:var%20b=document.body;if(b){var%20z=document.createElement('script');z.src='https://grandzhuo.github.io/assets/files/scripts/showTouch_bookmarklet.js';b.appendChild(z);}void(0)
+
 (function () {
 
     // ##########
