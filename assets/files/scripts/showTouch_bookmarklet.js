@@ -48,7 +48,7 @@
         // ----------
         destroy: function () {
             var self = this;
-            this.$el.fadeOut(1000, function () {
+            this.$el.fadeOut(2000, function () {
                 self.$el.remove();
             });
         },
